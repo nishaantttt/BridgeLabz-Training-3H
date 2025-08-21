@@ -2,7 +2,7 @@ package String_practice;
 
 import java.util.Scanner;
 
-public class CharArrayComparison {
+public class CharArrayComparison {  
 
     // User-defined method to get characters without using toCharArray
     public static char[] getChars(String text) {
