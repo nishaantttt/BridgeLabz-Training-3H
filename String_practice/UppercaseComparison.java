@@ -15,7 +15,7 @@ public class UppercaseComparison {
             }
         }
         return sb.toString();
-    }
+    }           
 
     // Compare strings character by character
     public static boolean compareStrings(String s1, String s2) {
