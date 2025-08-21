@@ -1,6 +1,4 @@
-package String_practice;
 import java.util.Scanner;
-
 public class UppercaseComparison {
 
     // Convert manually using ASCII values
