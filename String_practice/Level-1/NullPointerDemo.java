@@ -1,5 +1,3 @@
-package String_practice;
-
 public class NullPointerDemo {
 
     // Method to generate NullPointerException
