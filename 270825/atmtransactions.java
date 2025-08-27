@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class atmtransactions {
     public static void gettransactions(int n, int[] arr){
-        Scanner sc = new Scanner(System.in);
+        Scanner sc= new Scanner(System.in);
 
         for(int i = 0 ; i< n ; i++){
             
