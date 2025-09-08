@@ -1,7 +1,7 @@
 public class LibraryBook {
     private String title;
     private String author;
-    private double price;
+    private double price; 
     private boolean available;
 
     public LibraryBook(String title, String author, double price, boolean available) {
