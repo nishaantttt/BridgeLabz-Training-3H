@@ -6,7 +6,7 @@ public class HotelBookingMain {
         HotelBooking booking2 = new HotelBooking("Alice", "Deluxe", 3);
         System.out.println("Parameterized Booking: " + booking2);
 
-        HotelBooking booking3 = new HotelBooking(booking2);
+        HotelBooking booking3 = new HotelBooking(booking2); 
         System.out.println("Copy Booking: " + booking3);
 
         // Modifying copy to check independence
