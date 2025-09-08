@@ -1,7 +1,7 @@
 public class CarRental {
     private String customerName;
     private String carModel;
-    private int rentalDays;
+    private int rentalDays; 
     private double dailyRate;
 
     // Default constructor
