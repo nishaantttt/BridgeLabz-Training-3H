@@ -1,7 +1,7 @@
 public class HotelBooking {
     private String guestName;
     private String roomType;
-    private int nights;
+    private int nights; 
 
     // Default constructor
     public HotelBooking() {
