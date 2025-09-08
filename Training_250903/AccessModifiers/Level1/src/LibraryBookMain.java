@@ -7,7 +7,7 @@ public class LibraryBookMain {
         System.out.println(book2);
 
         System.out.println("\nBorrowing '" + book1.getTitle() + "':");
-        if (book1.borrowBook()) {
+        if (book1.borrowBook()) { 
             System.out.println("Successfully borrowed!");
         } else {
             System.out.println("Book is not available.");
