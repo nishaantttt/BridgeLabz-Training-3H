@@ -1,6 +1,6 @@
 public class EmployeeMain {
     private int id;
-    private String department;
+    private String department; 
     private double salary; 
 
     public EmployeeMain(int id, String department, double salary) {
