@@ -1,7 +1,7 @@
 public class EmployeeMain {
     private int id;
     private String department;
-    private double salary;
+    private double salary; 
 
     public EmployeeMain(int id, String department, double salary) {
         this.id = id;
