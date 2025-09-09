@@ -6,7 +6,7 @@ public class Product {
     public Product(String productName, double price) {
         this.productName = productName;
         this.price = price;
-        totalProducts++;
+        totalProducts++; 
     }
 
     public void displayProductDetails() {
