@@ -6,7 +6,7 @@ public class CourseMain {
 
         System.out.println("Before updating institute name:");
         c1.displayCourseDetails();
-        c2.displayCourseDetails();
+        c2.displayCourseDetails(); 
         c3.displayCourseDetails();
 
         Course.updateInstituteName("XYZ Academy");
