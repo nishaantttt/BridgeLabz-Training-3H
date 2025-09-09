@@ -1,6 +1,6 @@
 public class Course {
     private String courseName;
-    private int duration; // in months
+    private int duration; // in months 
     private double fee;
     private static String instituteName = "ABC Institute";
 
