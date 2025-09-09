@@ -8,7 +8,7 @@ public class ProductMain {
         this.price = price;
         totalProducts++;
     }
-
+ 
     public void displayProductDetails() {
         System.out.println("Product Name: " + name);
         System.out.println("Price: " + price);
