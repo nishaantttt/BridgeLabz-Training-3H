@@ -1,4 +1,4 @@
-public class BankAccount {
+public class BankAccount { 
     static String bankName = "ABC Bank";
     private static int totalAccounts = 0;
     private String accountHolderName;
